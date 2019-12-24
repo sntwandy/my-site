@@ -1,0 +1,28 @@
+.full-card{
+    width: 350px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 50px 10px;
+    padding: 5px;
+}
+
+.card-content{
+    padding: 10px;
+}
+
+.first-title{
+    text-align: center;
+}
+
+.body-content{
+    margin: 10em;
+    margin-top: 4em;
+}
+
+img{
+    width: 150px;
+    display: block;
+    margin: auto;
+    border-radius: 1em;
+    border: 2px solid #00f;
+}
